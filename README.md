@@ -21,3 +21,7 @@ For the following commands, in the terminal, go to the folder where the file is.
  Command to delete the first-pod:
 
 `kubectl delete -f first-pod.yaml`
+
+ Command to list the services
+
+`kubectl get svc`
