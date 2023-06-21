@@ -29,3 +29,7 @@ For the following commands, in the terminal, go to the folder where the file is.
  Command to run in the interactive mode
 
 `kubectl exec -it name-pod --bash`
+
+ Command to list the nodes
+
+`kubectl get nodes -o wide`
