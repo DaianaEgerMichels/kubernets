@@ -25,3 +25,7 @@ For the following commands, in the terminal, go to the folder where the file is.
  Command to list the services
 
 `kubectl get svc`
+
+ Command to run in the interactive mode
+
+`kubectl exec -it name-pod --bash`
